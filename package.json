@@ -1,0 +1,27 @@
+{
+  "name": "web-design-site",
+  "version": "0.0.1",
+  "description": "A responsive site using HTML5 and CSS3",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "responsive",
+    "site",
+    "HTML5",
+    "CSS3"
+  ],
+  "author": "Paschalis Thriskos",
+  "license": "MIT",
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.0",
+    "node-sass": "^4.3.0",
+    "susy": "^2.2.12"
+  }
+}

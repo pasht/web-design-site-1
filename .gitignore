@@ -1,0 +1,10 @@
+# node modules directory
+node_modules
+
+# zip files
+*.tar
+*.zip
+*.7z
+
+# Distribution directory
+dist
